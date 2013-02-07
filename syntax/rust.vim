@@ -143,3 +143,4 @@ syn sync minlines=200
 syn sync maxlines=500
 
 let b:current_syntax = "rust"
+
